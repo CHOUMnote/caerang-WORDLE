@@ -19,28 +19,24 @@ frontend, backend 구분하여 각 파트별 개발
 ### 개발 도구 및 기술
 
 **frontend**
-
 - JS, CSS, HTML
 
 **backend**
-
 - python
 - django 프레임워크
 
-- 사용 DB : PostgreSQL
+- 사용 DB : PostgreSQL, SQLite
 
 
 
 ### 진행 상황
 
-- 프로젝트 구상
-
 <br><br><hr>
 > **TDL**
-
+- [x] 기본 서버 구현
 - [ ] 로그인 구현 : 구현x  -> API 박아 넣기
 - [ ] 유저 랭킹 관리
-- [ ] 기본적인 워들 로직 구현
+- [x] 기본적인 워들 로직 구현
 - [ ] 페이지 스타일링
 --------------------------------------
 __가능?__
